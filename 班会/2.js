@@ -23,13 +23,13 @@ span.onclick = function (){
 }
 };
 // setInterval(function () {
-//   // for(let i = 0 ; i < 1000000 ; i++){
+//   // for(let i = 0 ; i < 1600000 ; i++){
 //     hh = Math.round(Math.random() * xuehao.length - 1);
 //     console.log(xuehao[hh]);
 //     if(hh === -0 || hh === 0 || hh === xuehao.length - 1 ||hh === -1){
 //       gailu ++;
 //       xianshi.innerHTML = gailu;
-//       ui = gailu / 1000000
+//       ui = gailu / 1600000
 //       span.innerHTML = ui;
 //     }
 //     console.log(hh)
