@@ -102,7 +102,7 @@ window.onload = function(){
 
     last : function(){
       if(!this.live){
-        console.log("狗狗已经无法挽回，节哀吧！！！！")
+        console.log("狗狗已经无法挽回，节哀吧！！")
       }
     }
   }
