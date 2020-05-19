@@ -21,7 +21,7 @@ console.log(hit);
                   clearInterval(timer);
                   alert("时间到，结束!");
                 }
-                if(c === true){
+                if(c == true){
                     clearInterval(timer);
                     alert("提前" + maxtime - seconds + "完成任务，恭喜！");
                 } 

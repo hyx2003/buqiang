@@ -1,6 +1,6 @@
 function jiemian(){
-    let ollll = document.getElementById('bzd')
-    ollll.href="./gaming.css"
+    let olll = document.getElementById('bzd')
+    olll.href="./gaming.css"
 }
 let model = {
 	boardSize: 7,
