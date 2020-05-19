@@ -58,7 +58,7 @@ window.onload = function(){
       if(this.islive){
         let self = this
         this.live = setInterval(function(){
-          self.water -= 3;
+          self.water -= 4;
           self.food -= 4;
           self.showstatus();
           self.checkStatus();

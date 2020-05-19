@@ -1,6 +1,6 @@
 window.onload = function () {
 
-  // huangyuxiang
+
   let hyx;
   // jiangzhengshan right
   let jzs;
